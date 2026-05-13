@@ -2,12 +2,26 @@
 
 MIS Analyst | Data Analyst | BI Professional
 
-I specialize in:
-- Power BI Dashboarding
-- SQL Analytics
+## Skills
+- Power BI
+- SQL
+- Python
 - Excel Automation
-- KPI Reporting
-- CRM Analytics
+- Dashboarding
 - Business Intelligence
 
-- Power BI | SQL | Python | Excel | DAX | MySQL | Pandas
+## Featured Projects
+- Executive Sales Dashboard
+- HR Analytics Dashboard
+- Customer Churn Analysis
+- Financial KPI Dashboard
+
+## Experience
+MIS Analyst at Fusion Business Solutions Pvt Ltd
+
+## Connect With Me
+LinkedIn - www.linkedin.com/in/shivam-sanadhya
+Email - shivamsanadhya18f@gmail.com
+
+
+
